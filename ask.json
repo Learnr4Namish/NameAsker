@@ -1,0 +1,1 @@
+[{"type":"keyword","value":"getInput"},{"type":"string","value":"Hello There! My Name is NameAsker. May I know your name please?"},{"type":"operator","value":"eq"},{"type":"lambda","value":"lambda"},{"type":"keyword","value":"writeValue"},{"type":"string","value":"Welcome to NKPL, ${input}"},{"type":"keyword","value":";"}]
